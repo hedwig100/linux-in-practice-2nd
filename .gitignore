@@ -1,2 +1,11 @@
+__pycache__
+
 01-operating-system-overview/hello
 01-operating-system-overview/hello.log
+
+03-process-scheduler/*.data
+03-process-scheduler/*.jpg
+!03-process-scheduler/*-single-cpu.data
+!03-process-scheduler/*-single-cpu.jpg
+!03-process-scheduler/*-multi-cpu.data
+!03-process-scheduler/*-multi-cpu.jpg
